@@ -1,13 +1,33 @@
-# Bienvenidos a mi web
+# Bienvenidos a mi pagina web
 
 ## Contenidos 
 
-### Sistemas operativos 
+# raulc-esliceu 
 
-### Muntage 
+*Hola soc **Raul** i aquest es el meu traball de repositoris de **FP de grau mitja de sistemas microinformatica i xarxes.***
 
-### Ofimatica 
+### Aqui teniu l'enllaç del meu repositori per que pogueu compartir-lo ###
 
-### Base de dades 
+>Enllaç
 
-### Charches locals
+(https://github.com/Raul572008/raulc-esliceu)
+
+##### Aqui teniu tots els moduls #####
+
+###### Moduls ######
+
+* Tots els utilizats 
+
+**IPO**
+
+**Montaje** 
+
+**Redes** 
+
+**Ofimatica** 
+
+**Angles** 
+
+**Dades** 
+
+**Operatius**
